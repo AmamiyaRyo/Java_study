@@ -1,2 +1,2 @@
-# StudentManagement
-Java学習用リポジトリ
+# Java_study
+レイズテック用リポジトリ
